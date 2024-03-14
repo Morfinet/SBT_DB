@@ -13,17 +13,23 @@ https://www.kaggle.com/competitions/fake-news/data
 3.	Совершил над этими данными CRUD операции
 Create
 ![image info](./pics/Рисунок6.png)
+
 Read
 ![image info](./pics/Рисунок7.png)
+
 ![image info](./pics/Рисунок8.png)
+
 Update
 ![image info](./pics/Рисунок9.png)
+
 Delete
 ![image info](./pics/Рисунок10.png)
 
 4.	Создал индексы, проверил производительность
 ![image info](./pics/Рисунок11.png)
+
 ![image info](./pics/Рисунок12.png)
+
 ![image info](./pics/Рисунок13.png)
 
 
